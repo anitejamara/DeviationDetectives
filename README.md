@@ -2,6 +2,9 @@
 
 Deviation Detectives is a project that identifies deviations in business contract documents from a given template by finding additions, modifications, or deletions. The project includes a backend built with FastAPI and a frontend built with React.
 
+Feel free to check our project presentation below!
+https://drive.google.com/file/d/1OeZYC9GYdLUt4LNX-ejmnJ857lto0DYV/view?usp=sharing
+
 ## Project Structure
 
 - **L1_IndividualComponents**: Contains individual Python files used in the project.
