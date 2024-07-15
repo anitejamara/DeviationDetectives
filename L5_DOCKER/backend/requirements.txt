@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+PyMuPDF
+levenshtein
+scikit-learn
+sentence-transformers
+scipy
+python-Levenshtein
+fastapi-cors
+python-multipart
+PyPDF2
