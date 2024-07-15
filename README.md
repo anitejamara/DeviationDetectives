@@ -1,7 +1,5 @@
 # DeviationDetectives
 
-# Deviation Detectives
-
 Deviation Detectives is a project that identifies deviations in business contract documents from a given template by finding additions, modifications, or deletions. The project includes a backend built with FastAPI and a frontend built with React.
 
 ## Project Structure
@@ -9,7 +7,7 @@ Deviation Detectives is a project that identifies deviations in business contrac
 - **L1_IndividualComponents**: Contains individual Python files used in the project.
 - **L2_StreamlitApplication**: Contains the Streamlit application files.
 - **L3_FastAPI**: Contains the FastAPI backend files.
-- **L4_DOCKER**: Contains Docker configurations for both backend and frontend.
+- **L4_DOCKER**: Contains Docker configurations for both the backend and frontend.
 - **L5_Frontend**: Contains the frontend code built with React.
 
 ## Getting Started
