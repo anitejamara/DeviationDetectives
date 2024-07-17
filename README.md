@@ -10,8 +10,8 @@ https://drive.google.com/file/d/1OeZYC9GYdLUt4LNX-ejmnJ857lto0DYV/view?usp=shari
 - **L1_IndividualComponents**: Contains individual Python files used in the project.
 - **L2_StreamlitApplication**: Contains the Streamlit application files.
 - **L3_FastAPI**: Contains the FastAPI backend files.
-- **L4_DOCKER**: Contains Docker configurations for both the backend and frontend.
-- **L5_Frontend**: Contains the frontend code built with React.
+- **L4_Frontend**: Contains the frontend code built with React.
+- **L5_DOCKER**: Contains Docker configurations for both the backend and frontend.
 
 ## Getting Started
 
@@ -80,4 +80,4 @@ https://drive.google.com/file/d/1OeZYC9GYdLUt4LNX-ejmnJ857lto0DYV/view?usp=shari
 
 ## Usage
 
-Once the services are running, you can interact with the frontend to upload and analyze contract documents. The backend will handle the analysis and return the results to the frontend for display.
+Once the services run, you can interact with the frontend to upload and analyze contract documents. The backend will handle the analysis and return the results to the frontend for display.
